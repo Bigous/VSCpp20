@@ -1,0 +1,7 @@
+{
+  "C_Cpp.codeAnalysis.clangTidy.enabled": false,
+  "files.associations": {
+    "*.ixx": "cpp"
+  },
+  "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+}
