@@ -11,10 +11,10 @@ int main()
 
 	for (int i = 0; i < 15; ++i) {
 		std::cout << "Rolling the dice for the "
-		          << static_cast<int>(i + 1)
-							<< " time: "
-							<< static_cast<int>(bigous::dice())
-							<< std::endl;
+			<< static_cast<int>(i + 1)
+			<< " time: "
+			<< static_cast<int>(bigous::dice())
+			<< std::endl;
 	}
 
 	return 0;
